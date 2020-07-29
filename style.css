@@ -1,0 +1,77 @@
+Body {
+  color: dimgrey;
+  padding: 0px;
+  margin: 0px;
+}
+
+.container {
+  background-color: #f8f9fa!important;
+}
+
+.navbar-brand a{
+  padding: 0px;
+  font-size: 20px;
+}
+
+.topimg {
+  max-width: 1110px;
+  height: auto;
+}
+
+.main {
+  padding: 16px;
+}
+
+section {
+  margin-bottom: 30px;
+}
+
+h1 {
+margin-right: 30px;
+}
+
+h3 {
+  text-align: center;
+}
+
+.service-icon {
+  height: 80px;
+  width: 80px;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.service-img {
+  padding: 5px;
+}
+
+.card-body {
+  margin-left: 20px;
+}
+
+tr {
+  text-align: center;
+}
+
+.botton {
+  margin: auto;
+}
+
+.footer {
+margin: auto;
+text-align: center;
+padding: 10px 0px;
+}
+
+@media screen and (max-width:994px) {
+  .service-img {
+    width: 400px; 
+    height: auto; 
+  }
+}
+
+@media screen and (max-width:994px) {
+  .card {
+    margin-bottom:30px;
+  }
+}
